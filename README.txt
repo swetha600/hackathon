@@ -1,4 +1,4 @@
-how to strcuture the website:
+how to structure the website:
 1. local_run.py.main.py,destination_scaper.py should be inside a folder named, "hackathon"
 2. create an inside folder called "pages" and add the following programs:
     i.01_Destination_and_Budget.py
@@ -17,3 +17,4 @@ i.e.
 UNSPLASH_ACCESS_KEY = "enter api key here"
 PEXELS_API_KEY = "enter api key here"
 HUGGINGFACE_API_KEY = "enter api key here"
+
